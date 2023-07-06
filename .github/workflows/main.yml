@@ -12,7 +12,7 @@ jobs:
         run: echo Hello, world!
       - name: second step or task
         run: |
-          echo "hello from step 2"
+          echo "hello from step 21"
           sleep 10
       - name: create a file and list it
         run: |
